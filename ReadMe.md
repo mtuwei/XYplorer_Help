@@ -1,5 +1,5 @@
 ---
-title: XYplorer使用指南
+title: XYplorer-使用指南
 tags: [XYplorer]
 created: 2021-03-09 15:22:30
 ---
@@ -14,7 +14,7 @@ created: 2021-03-09 15:22:30
 
 3. 提问和解惑。可以Google或者参考官方帮助文档，按<kbd>F1</kbd>呼出，若无法呼出，请下载`XYplorer.chm`后置于XYplorer目录。由于深入使用XY需要有较扎实的英文基础和对计算机技术用语(Computing Glossary)比较熟悉，所以参阅英文帮助文档可能会遇到障碍，这里我提供一个翻译网站：[DeepL Translate](https://www.deepl.com/translator)。
    
-   提问的魔法进修课:point_right:[Stop-Ask-Questions-The-Stupid-Ways](https://github.com/dogfight360/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)。
+   :point_right:提问的魔法进修课：[Stop-Ask-Questions-The-Stupid-Ways](https://github.com/dogfight360/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)。
 
 4. 本文参考来源主要包括Google搜索、XYplorer Beta Club、官网帮助文档。
 
@@ -47,7 +47,7 @@ created: 2021-03-09 15:22:30
 # 阅读列表
 
 | 文件                                         | 说明                                                     |
-| ------------------------------------------ | ------------------------------------------------------ |
+|--------------------------------------------|--------------------------------------------------------|
 | [快速入门XYplorer](./XYplorer-QuickStart.md)   | 帮助你快速上手XYplorer                                        |
 | [界面布局](./XYplorer-Layout.md)               | 主要介绍XYplorer界面上元素的使用                                   |
 | [用户自定义命令](./XYplorer-UDC.md)               | 用户自定义命令的使用，主要是让快捷键绑定命令或脚本文件                            |

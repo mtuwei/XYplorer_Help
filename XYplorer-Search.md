@@ -10,33 +10,33 @@ created: 2021-03-09 15:28:53
 使用`List All Commands...`命令，通过键盘依次按下Alt->H->O呼出，然后输入关键词find，得到相关的命令如下：
 
 ```
-#260	Edit | Find Files...	 (Ctrl+F)
-#261	Edit | Find Now	 (Ctrl+Alt+F)
-#615	Tools | List Management | Find Files: Name...
-#616	Tools | List Management | Find Files: Location...
-#617	Tools | List Management | Find Files: Excluded Items...
-#1058	Miscellaneous | Select Info Panel Tab | Find Files	 (Ctrl+7)
-#1026	Miscellaneous | Find Files | Open Find Files and Reset	 (Ctrl+Shift+F)
-#1030	Miscellaneous | Find Files | Search All Tabs
+# 260	Edit | Find Files...	 (Ctrl+F)
+# 261	Edit | Find Now	 (Ctrl+Alt+F)
+# 615	Tools | List Management | Find Files: Name...
+# 616	Tools | List Management | Find Files: Location...
+# 617	Tools | List Management | Find Files: Excluded Items...
+# 1058	Miscellaneous | Select Info Panel Tab | Find Files	 (Ctrl+7)
+# 1026	Miscellaneous | Find Files | Open Find Files and Reset	 (Ctrl+Shift+F)
+# 1030	Miscellaneous | Find Files | Search All Tabs
 ```
 
 继续输入关键词search，其中与搜索有关的命令有：
 
 ```
-#262	Edit | Repeat Last Search
-#266	Edit | Quick Search...	 (F3)
-#268	Edit | Toggle Quick Search	 (Ctrl+Shift+F3)
-#267	Edit | Repeat Last Quick Search	 (Shift+F3)
-#638	Tools | List Management | Quick Search...
-#1030	Miscellaneous | Find Files | Search All Tabs
+# 262	Edit | Repeat Last Search
+# 266	Edit | Quick Search...	 (F3)
+# 268	Edit | Toggle Quick Search	 (Ctrl+Shift+F3)
+# 267	Edit | Repeat Last Quick Search	 (Shift+F3)
+# 638	Tools | List Management | Quick Search...
+# 1030	Miscellaneous | Find Files | Search All Tabs
 ```
 
 继续输入关键词Live Filter Box，其中与搜索有关的命令有：
 
 ```
-#675	Window | Show Live Filter Box	 (Alt+F3)
-#694	Window | Arrangement | Live Filter Box in Status Bar
-#1080	Miscellaneous | Focus Functions | Focus Live Filter Box	 (Ctrl+Alt+X)
+# 675	Window | Show Live Filter Box	 (Alt+F3)
+# 694	Window | Arrangement | Live Filter Box in Status Bar
+# 1080	Miscellaneous | Focus Functions | Focus Live Filter Box	 (Ctrl+Alt+X)
 ```
 
 注意：使用`List All Commands...`命令搜索到的命令项目通过鼠标左键双击可以启动命令。
@@ -314,7 +314,7 @@ Template创建时，需要为当前Template进行命名，命名后进行保存�
 ```
     $template = popupmenu(replace(listfolder("<xydata>\FindTemplates", "*.ini", 4), ".ini"));
     loadsearch $template, "x";
-    #260;
+    # 260;
 ```
 
 各位可以试着复制上面的内容，然后在菜单栏"Scripting->Run Scripting..."呼出Run Scripting...，也可以通过键盘依次按下Alt->S->R呼出。把复制的脚本内容粘贴，然后运行这个脚本（前提是你有保存Search Template文件哦）。
@@ -341,7 +341,7 @@ Template创建时，需要为当前Template进行命名，命名后进行保存�
 		$searchlist .= $temp;
 	}
 	loadsearch replacelist($template, $searchlist, $invalid_characters, ",", 0, 0), x; //Load specified search template ini file
-	#260;	// This Command ID will invoke Find Files Tab
+	# 260;	// This Command ID will invoke Find Files Tab
 ```
 
 可以把脚本文件命名FastLoadSearchTemplate.xys，然后保存在\<xyscripts\>中，然后通过按键依次按下Alt->U-M呼出"Manager User-Defined Commands"，设置快捷键为<kbd>Shift+T</kbd>

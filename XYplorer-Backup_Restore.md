@@ -1,6 +1,7 @@
 ---
 title: XYplorer-备份还原
 tags: XYplorer
+created: 2021-07-03 14:15:52
 ---
 
 
@@ -117,13 +118,13 @@ XYplorer.ini    main settings file (lastini.dat, if it exists, decides which ini
 
 XYplorer配置文件保存：
 
-![image-20210703141552657](_resources/XYConfigFileLoad.png)
+![image](_resources/XYConfigFileLoad.png)
 
 快捷键为依次按下<kbd>ALT</kbd>，<kbd>N</kbd>，<kbd>N</kbd>，<kbd>方向键→</kbd>，<kbd>A</kbd>。保存为其他名称，比如MyConfig.ini。
 
 加载XYplorer配置文件：
 
-![image-20210703142742836](_resources/LoadXYConfig.png)
+![image](_resources/LoadXYConfig.png)[](./C:\Users\Robert\AppData\Local\Programs\Zettlr)
 
 快捷键为依次按下<kbd>ALT</kbd>，<kbd>N</kbd>，<kbd>N</kbd>，<kbd>方向键→</kbd>，<kbd>L</kbd>。
 
@@ -133,29 +134,29 @@ XYplorer配置文件保存：
 
 标签集保存：
 
-![image-20210703143243571](_resources/Tags-ExportLocalTags.png)
+![image](_resources/Tags-ExportLocalTags.png)
 
 载入Tags信息有两种方法：
 
 一种方法是
 
-![image-20210703143445068](_resources/LoadTagsDatabases.png)
+![image](_resources/LoadTagsDatabases.png)
 
 默认加载的是`<xydata>\tag.dat`，如果你有保存其他名称的标签数据，可以填写对应路径使用它。
 
 另一种是
 
-![image-20210703143526581](_resources/Tags-ImportLocalTags.png)
+![image](_resources/Tags-ImportLocalTags.png)
 
 删除Tags的全部信息：
 
 ❗❗❗危险操作
 
-![image-20210703144012089](_resources/Tags-RemoveAllTags.png)
+![image](_resources/Tags-RemoveAllTags.png)
 
 或者
 
-![image-20210703144120592](_resources/Tags-RemoveAllTagsInSettings.png)
+![image](_resources/Tags-RemoveAllTagsInSettings.png)
 
 快捷键F9进入设置，信息 - 标签 - 选项 - 移除所有标签。
 
@@ -167,13 +168,13 @@ XYplorer配置文件保存：
 
 在目录侧边栏的空白处，或者标黑体的目录名称处右键
 
-![image-20210703145007134](_resources/CatalogNav-Save.png)
+![image](_resources/CatalogNav-Save.png)
 
 上图红框中，“保存”表示当前目录侧边栏信息保存在`<xycatalogs>\catalog.dat`中；“另存为”表示当前目录侧边栏信息保存用户指定的新文件，并且XY使用这个新文件；“副本另存为”表示XY将当前目录侧边栏信息保存到用户指定的新文件，但XY依然使用位于`<xycatalogs>\catalog.dat`的目录侧边栏信息。
 
 目录侧边栏加载：
 
-![image-20210703145629811](_resources/CatalogNav-Open_Import.png)
+![image](_resources/CatalogNav-Open_Import.png)
 
 “打开”需要选择目录侧边栏信息文件，以此载入目录侧边栏。
 
@@ -183,7 +184,7 @@ XYplorer配置文件保存：
 
 布局（Layout）：是否显示地址栏，工具栏，标签页栏，状态栏，树，目录，文件列表等等，以及它们的位置摆放信息。
 
-![image-20210703150133855](_resources/Windows-LoadSaveLayout.png)
+![image](_resources/Windows-LoadSaveLayout.png)
 
 加载和保存布局功能位于：菜单栏 - 窗口 - 加载布局，或保存布局为。
 
@@ -193,7 +194,7 @@ XY支持双窗格(Panel)，通过F10切换到单/双窗格，第一个窗格为T
 
 Tabset用于保存某个窗格的所有标签页信息。
 
-![image-20210703150350645](_resources/Tabsets-OpenSave.png)
+![image](_resources/Tabsets-OpenSave.png)
 
 ## 用户自定义命令
 
