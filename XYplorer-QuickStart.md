@@ -1,7 +1,8 @@
 ---
-title: XYplorer-快速入门
+title: 01-快速入门
 tags: XYplorer
 ---
+
 
 # 使用经历
 

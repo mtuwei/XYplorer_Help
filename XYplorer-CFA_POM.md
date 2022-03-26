@@ -1,11 +1,8 @@
 ---
-title: 自定义文件关联(CFA)和便携式打开方式菜单(POM)
-tags: [XYplorer]
+title: 05-自定义文件关联（CFA）和便携式打开方式菜单（POM）
+tags: XYplorer
 created: 2021-03-09 15:28:38
 ---
-
-
-
 
 
 # 自定义文件关联(CFA)

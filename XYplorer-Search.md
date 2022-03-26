@@ -1,6 +1,6 @@
 ---
-title: XYplorer-搜索(Search)
-tags: [XYplorer]
+title: 07-搜索(Search)
+tags: XYplorer
 created: 2021-03-09 15:28:53
 ---
 

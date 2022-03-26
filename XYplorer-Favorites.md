@@ -1,5 +1,5 @@
 ---
-title: XYplorer-收藏文件和收藏文件夹(Favorites)
+title: 08-收藏文件和收藏文件夹（Favorites）
 tags: XYplorer
 created: 2021-03-09 15:29:08
 ---

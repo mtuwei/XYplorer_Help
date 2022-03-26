@@ -1,6 +1,6 @@
 ---
-title: XYplorer-用户自定义命令(UDC)
-tags: [XYplorer]
+title: 03-用户自定义命令（UDC）
+tags: XYplorer
 created: 2021-03-09 15:28:03
 ---
 

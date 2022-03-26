@@ -1,6 +1,6 @@
 ---
-title: XYplorer-脚本(Scripting)
-tags: [XYplorer]
+title: 12-脚本（Scripting）
+tags: XYplorer
 created: 2021-03-09 15:31:19
 ---
 

@@ -1,9 +1,8 @@
 ---
-title: XYplorer-技巧
-tags: [XYplorer]
+title: 14-技巧
+tags: XYplorer
 created: 2021-04-10 11:49:58
 ---
-
 
 
 # XY出现崩溃的原因和解决方法
@@ -48,7 +47,7 @@ Autohotkey修改Win+E，使热键重新链接到XYplorer
 4. 复制以下代码，根据自身情况替换路径：
 
    ```
-   #e:: ;win+e 打开XYplorer
+   # e:: ;win+e 打开XYplorer
    
    Run C:\Program Files\XYplorer\XYplorer.exe
    
@@ -400,7 +399,7 @@ New.html
 New C.c模板文件中我写入以下内容：
 
 ```
-#include <stdio.h>
+# include <stdio.h>
 
 int main() {
     
