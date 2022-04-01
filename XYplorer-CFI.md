@@ -4,8 +4,6 @@ tags: XYplorer
 created: 2021-03-09 15:28:48
 ---
 
-返回:  {% post_link XYplorer/XYplorerGuide XYplorer使用指南 %} 
-
 
 # 自定义文件夹图标(CFI)
 
