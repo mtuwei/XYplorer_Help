@@ -5,10 +5,6 @@ created: 2021-03-09 15:35:06
 ---
 
 
-# 本Markdown说明
-
-
-
 # 前言
 
 本文件记录XYplorer Scripting方面的信息。脚本文件放在与本md文件同级目录里了。

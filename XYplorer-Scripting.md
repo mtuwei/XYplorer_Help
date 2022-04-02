@@ -5,7 +5,7 @@ created: 2021-03-09 15:31:19
 ---
 
 
-# [Pin]<span id="scripts">关于XYplorer Scripting的一些事</span>
+# 关于XYplorer Scripting的一些事
 
 ## XYplorer Scripting简介
 

@@ -5,7 +5,7 @@ created: 2021-03-09 15:28:53
 ---
 
 
-# <span id="xyplorer_search">XY所有搜索功能</span>
+# XY所有搜索功能
 
 使用`List All Commands...`命令，通过键盘依次按下Alt->H->O呼出，然后输入关键词find，得到相关的命令如下：
 
