@@ -13,7 +13,7 @@ created: 2021-03-09 15:22:30
 
 2. 更新频率和内容。更新时间不确定。这大概是我写过最详细的一份帮助类说明文档了，现在考虑时间投入收益，投入到这份文档上的时间只会越来越少，要是我有时间，能完善就完善。
 
-3. 提问和解惑。可以Google或者参考官方帮助文档，按<kbd>F1</kbd>呼出，若无法呼出，请下载`XYplorer.chm`后置于XYplorer目录。由于深入使用XY需要有较扎实的英文基础和对计算机技术用语(Computing Glossary)比较熟悉，所以参阅英文帮助文档可能会遇到障碍，这里我提供一个翻译网站：[DeepL Translate](https://www.deepl.com/translator)。
+3. 提问和解惑。可以Google或者参考官方帮助文档，按<kbd>F1</kbd>呼出，若无法呼出，请下载`XYplorer.chm`后，置于XYplorer目录。由于深入使用XY需要有较扎实的英文基础和对计算机技术用语(Computing Glossary)比较熟悉，所以参阅英文帮助文档可能会遇到障碍，这里我提供一个翻译网站：[DeepL Translate](https://www.deepl.com/translator)。
    
    :point_right:提问的魔法进修课：[Stop-Ask-Questions-The-Stupid-Ways](https://github.com/dogfight360/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)。
 
